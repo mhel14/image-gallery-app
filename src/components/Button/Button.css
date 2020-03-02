@@ -1,0 +1,16 @@
+.pagination-btn {
+	font-weight: 700;
+	padding: 4px 12px;
+	cursor: pointer;
+}
+
+.search-btn {
+	min-height: 45px;
+	padding: 0px 16px;
+	border: 0;
+	background: #ffa500;
+	font-size: 16px;
+	font-weight: 700;
+	color: #fff;
+	cursor: pointer;
+}

@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.body {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.app {
+	background: #e7e7e7;
+	min-height: 100vh;
+}

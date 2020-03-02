@@ -1,0 +1,8 @@
+.gallery__list {
+	max-height: 220px;
+	overflow: hidden;
+}
+
+.gallery__photo {
+	object-fit: cover;
+}

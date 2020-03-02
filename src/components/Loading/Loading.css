@@ -1,0 +1,9 @@
+.loading {
+	position: fixed;
+	left: calc(50% - 50px);
+	top: 220px;
+}
+
+.loading-gif {
+	max-width: 100px;
+}
