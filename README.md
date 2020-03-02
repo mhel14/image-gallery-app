@@ -1,7 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Getting Started
-===================================
 This is a simple web-app using Unsplash API.
 
 - Clone the Repository
@@ -14,3 +10,5 @@ This is a simple web-app using Unsplash API.
 - Start the Test
 
       run npm test
+=======
+# image-gallery-app
